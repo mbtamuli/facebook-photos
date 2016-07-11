@@ -1,0 +1,21 @@
+{
+  "name": "Facebook Photo Client",
+  "homepage": "https://github.com/mbtamuli/facebook-photos",
+  "authors": [
+    "Mriyam Tamuli <mbtamuli@gmail.com>"
+  ],
+  "description": "Demo Client for viewing photos in the user's albums",
+  "main": "index.php",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
